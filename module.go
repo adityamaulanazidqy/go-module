@@ -9,9 +9,9 @@ func SayHello(name string) string {
 }
 
 func DinnerTonight(name string) string {
-	return "Dinner tonight is" + name + "!"
+	return "Dinner tonight is " + name + "!"
 }
 
 func LunchToday(name string) string {
-	return "Lunch today is" + name + "!"
+	return "Lunch today is " + name + "!"
 }
